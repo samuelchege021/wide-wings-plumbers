@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1094f890-012e-4629-a288-88e7169fd1fe" name="Changes" comment="" />
+    <list default="true" id="1094f890-012e-4629-a288-88e7169fd1fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/READ-ME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project/READ-ME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/testimonial.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/testimonial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/x404.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/x404.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,25 +39,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Downloads/wind wings plumbers website&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/Downloads/wind wings plumbers website/project/templates",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Downloads\Plumberz Free Website Template - Free-CSS.com (2)\wind wings plumbers\img" />
       <recent name="C:\Users\Admin\Downloads\Plumberz Free Website Template - Free-CSS.com (2)\free-plumbing-website-template\img" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wind wings plumbers/project/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -67,7 +89,7 @@
       <workItem from="1717589334425" duration="28935000" />
       <workItem from="1717666352548" duration="411000" />
       <workItem from="1717679218213" duration="2230000" />
-      <workItem from="1717693798820" duration="318000" />
+      <workItem from="1717693798820" duration="4063000" />
     </task>
     <servers />
   </component>
